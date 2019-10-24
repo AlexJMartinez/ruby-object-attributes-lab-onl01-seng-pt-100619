@@ -18,4 +18,4 @@ class Person
 
 end
 
-person = Person.new
+John = Person.new

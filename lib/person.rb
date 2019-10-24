@@ -1,5 +1,5 @@
 class Person
-  
+
   def person=(person)
     @person = person
   end
@@ -15,7 +15,7 @@ class Person
   def job
     @job = job
   end
-  
+
 end
 
 person = Person.new
